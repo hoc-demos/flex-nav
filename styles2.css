@@ -1,0 +1,22 @@
+
+body {
+  background-color: #333;
+  font-family: Poppins, serif;
+  color:white;
+}
+
+a {
+  color: white;
+  text-decoration:none;
+  font-size:24px;
+}
+
+a:hover {
+  color:lightgrey;
+}
+
+ul {
+  list-style-type:none;
+  display:flex;
+  justify-content: space-evenly;
+}
